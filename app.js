@@ -13,3 +13,7 @@
 // document.write("My birth year is " + birthYear + "</br>" + type)
 
 // Question 4
+var visitorName = "John Doe" 
+var product = "T-SHIRTs" 
+var howMuch = "5" 
+document.write(visitorName + " ordered " + howMuch + product + " from CLOTHING.COM" )
